@@ -1,0 +1,6 @@
+{
+    "name": "My Full Stack Project",
+    "image": "aaiimg:latest",
+    "workspaceFolder": "/workspace",
+    "postCreateCommand": "git clone https://github.com/harryvu/devcon-demo.git /workspace"
+}
